@@ -1,0 +1,7 @@
+streamlit-lottie
+keras
+numpy
+pandas
+nltk
+imblearn
+sklearn
