@@ -40,7 +40,7 @@ if upload_file is not None:
 
 
 
-    model=load_model(r"Intern\dataset\a.h5")
+    model=load_model(r"a.h5")
     with open("Intern\dataset\questions.txt",'r') as f:
        lines=f.readlines()
        for i in range(len(lines)):
