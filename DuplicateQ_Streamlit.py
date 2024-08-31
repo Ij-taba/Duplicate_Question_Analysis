@@ -1,3 +1,4 @@
+import sklearn
 from sklearn.feature_extraction.text import CountVectorizer
 from keras.models import load_model
 from keras.preprocessing.sequence import pad_sequences
